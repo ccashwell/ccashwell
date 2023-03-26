@@ -1,6 +1,6 @@
 ### Hey, I'm Chris 👋
 
-![ccashwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccashwell&count_private=true&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ccashwell&count_private=true&show_icons=true&theme=dark)
 
 I'm a full-stack software **engineer**, **security analyst** and **technical consultant** with a proven track record of leading distributed teams to design, develop and launch products that win. For most of the last decade I've been deeply focused on machine learning and distributed ledger technologies. I like hard problems and taking chances.
 
