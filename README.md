@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Chris 👋
 
 ![ccashwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccashwell&count_private=true&show_icons=true&theme=dark)
 
