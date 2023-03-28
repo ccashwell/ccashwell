@@ -2,7 +2,7 @@
 
 I'm a full-stack software **engineer**, **security analyst** and **technical consultant** with a proven track record of leading distributed teams to design, develop and launch products that win. For most of the last decade I've been deeply focused on machine learning and distributed ledger technologies. I like hard problems and taking chances.
 
-[![GitHub Stats](https://gh-stats-two.vercel.app/api?username=ccashwell&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://gh-stats-two.vercel.app/api?username=ccashwell&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://gh-stats-two.vercel.app/api/top-langs/?username=ccashwell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
