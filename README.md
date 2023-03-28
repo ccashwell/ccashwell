@@ -6,7 +6,7 @@ I'm a full-stack software **engineer**, **security analyst** and **technical con
 
 I've built all sorts of software in several languages, including foundational contributions to popular blockchains and peer-to-peer protocols, financial analytics, algorithmic trading systems, web and mobile apps, distributed systems and microservices that power core banking systems. I've also been an active contributor to a few open-source projects and dev tools that are used by millions of developers around the world. My research and development work has contributed to innovations in diverse spaces ranging from solar energy to econometrics, and it has helped secure numerous US government contracts and grant awards, as well as over $400 million in private capital. 
 
-When I’m not hacking on something I’m excited about, I’m either traveling or busy on my farm trying to reinvent the egg and/or myself.
+When I’m not hacking on something I’m excited about, I’m either traveling or busy on my farm trying to reinvent the egg and/or myself. Or gaming... I do that a lot.
 
 ---
 
