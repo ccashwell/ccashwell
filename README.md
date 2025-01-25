@@ -1,16 +1,14 @@
 ### Hey, I'm Chris 👋
 
-I'm a full-stack software **engineer**, **security analyst** and **technical consultant** with a proven track record of leading distributed teams to design, develop and launch products that win. For most of the last decade I've been deeply focused on machine learning and distributed ledger technologies. I like hard problems and taking chances.
+I'm a full-stack software **engineer**, **security analyst** and **technical consultant** with a proven track record of leading distributed teams to design, develop and launch products that win. For most of the last decade I've been deeply focused on machine learning and distributed ledger technologies.
 
-[![GitHub Stats](https://gh-stats-two.vercel.app/api?username=ccashwell&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+I've built all sorts of software in several languages, including foundational contributions to popular blockchains and peer-to-peer protocols, financial analytics tools, algorithmic trading systems, web and mobile apps, massively distributed services, and core banking systems that directly power many of the world’s leading fintech companies. My research and development work has contributed to innovations in diverse fields ranging from solar energy to econometrics, and I’ve helped secure numerous US government contracts and grant awards, as well as over $400 million in private capital. For the past decade, my energy has been almost exclusively focused on distributed systems and protocol design.
 
-I've built all sorts of software in several languages, including foundational contributions to popular blockchains and peer-to-peer protocols, financial analytics, algorithmic trading systems, web and mobile apps, distributed systems and microservices that power core banking systems. I've also been an active contributor to a few open-source projects and dev tools that are used by millions of developers around the world. My research and development work has contributed to innovations in diverse spaces ranging from solar energy to econometrics, and it has helped secure numerous US government contracts and grant awards, as well as over $400 million in private capital. 
+———
 
-When I’m not hacking on something I’m excited about, I’m either traveling or busy on my farm trying to reinvent the egg and/or myself. Or gaming... I do that a lot.
+I'm an insatiably curious, crypto-native creator, and I like to ship stuff that matters. I’m deeply committed to disintermediation, self-sovereignty, incentive alignment, and spearheading outrageously ambitious initiatives. I spend a lot of time thinking about stuff like decentralization, democratization, machine learning, and just how fragile most of the systems society relies on really are. When I’m not hacking on something I’m excited about, I’m probably on the farm working with my horses or trying to wrangle something.
 
----
-
-TLDR: I'm a curious creator with hands-on experience both building and leading teams of builders to ship all sorts of software designed to address a wide variety of real-world problems (and no shortage of fun stuff, too). I have a strong background in security and privacy, and I enjoy finding flaws in systems and building future-proof solutions where possible. I'm very pro-crypto, but I'm a sucker for traditional equities and options trading strategies. I'm big on decentralization, AI and fixing things that feel broken to me. 
+Teamwork makes the dream work 💫
 
 `machine learning` `microservices` `digital ledger technology` `blockchain` `financial engineering`
 <br />
